@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me1123
+title: About Yoo HyunJung
 subtitle: will you marry me ? 
 ---
 
