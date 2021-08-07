@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: My website
+title: My website1
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -24,11 +24,11 @@ author: Some Person
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  About Me1: "aboutme"
+  Resources1:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home1: "https://deanattali.com"
 
 # --- Logo --- #
 
